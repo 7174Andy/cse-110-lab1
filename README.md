@@ -42,7 +42,7 @@ This [link](screenshots/IMAGES.md) is the page where all the screenshots are pre
 
 ## Links
 
-Link to my introduction: [About me](#about-me)
-Link to my experience: [Experience](#experience)
-Link to my goals: [Goals](#goals)
-Link to my assignments: [Assignments](#assignments)
+1. Link to my introduction: [About me](#about-me)
+2. Link to my experience: [Experience](#experience)
+3. Link to my goals: [Goals](#goals)
+4. Link to my assignments: [Assignments](#assignments)
